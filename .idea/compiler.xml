@@ -6,21 +6,40 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="cloud3-zuul-gateway2" />
+        <module name="eureka-server" />
         <module name="cloud2-config-server" />
         <module name="eureka-client" />
-        <module name="eureka-server" />
-        <module name="cloud2-eureka-client" />
+        <module name="cloud3-eureka-server" />
+        <module name="ch3-2-zuul-gateway" />
+        <module name="cloud3-eureka-client" />
         <module name="cloud2-eureka-server" />
+        <module name="cloud2-eureka-client" />
+        <module name="ch3-2-eureka-client" />
+        <module name="cloud3-zuul-gateway" />
+        <module name="ch3-2-eureka-server" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cloud3-zuul-gateway2" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ch3-2" options="-parameters" />
+      <module name="ch3-2-eureka-client" options="-parameters" />
+      <module name="ch3-2-eureka-server" options="-parameters" />
+      <module name="ch3-2-zuul-gateway" options="-parameters" />
       <module name="cloud-eureka" options="" />
       <module name="cloud-eureka-2" options="-parameters" />
+      <module name="cloud-eureka-3" options="" />
       <module name="cloud2-config-server" options="-parameters" />
       <module name="cloud2-eureka-client" options="-parameters" />
       <module name="cloud2-eureka-server" options="-parameters" />
+      <module name="cloud3-eureka-client" options="-parameters" />
+      <module name="cloud3-eureka-server" options="-parameters" />
+      <module name="cloud3-zuul-gateway" options="-parameters" />
+      <module name="cloud3-zuul-gateway2" options="-parameters" />
       <module name="eureka-client" options="-parameters" />
       <module name="eureka-server" options="-parameters" />
       <module name="spring-cloud-code" options="" />

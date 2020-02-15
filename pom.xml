@@ -10,7 +10,7 @@
     <modules>
         <module>cloud-eureka</module>
         <module>cloud-eureka-2</module>
-        <module>cloud-eureka-2/cloud2-eureka-server</module>
+        <module>ch3-2</module>
     </modules>
     <packaging>pom</packaging>
 
