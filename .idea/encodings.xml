@@ -23,6 +23,77 @@
     <file url="file://$PROJECT_DIR$/cloud3-3/cloud3-3-zuul-gateway/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud3-3/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud3-3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud3-4/ch3-4-eureka-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud3-4/ch3-4-eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud3-4/ch3-4-eureka-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud3-4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud3-4/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud3-5/ch3-5-eureka-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud3-5/ch3-5-eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud3-5/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud3-5/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud4-fegin-1/cloud4-fegin-gzip/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud4-fegin-1/cloud4-fegin-hello/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud4-fegin-1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud4-fegin-1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud4-feign-2/cloud4-2-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud4-feign-2/cloud4-2-eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud4-feign-2/cloud4-2-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud4-feign-2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud4-feign-2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud4-feign-3/cloud4-3-httpclient/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud4-feign-3/cloud4-3-okhttp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud4-feign-3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud4-feign-3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud4-feign-4/cloud4-4-eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud4-feign-4/cloud4-4-feign-file-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud4-feign-4/cloud4-4-feign-upload-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud4-feign-4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud4-feign-4/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud4-feign-5/cloud4-5-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud4-feign-5/cloud4-5-eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud4-feign-5/cloud4-5-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud4-feign-5/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud4-feign-5/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud4-feign-6/cloud4-venus-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud4-feign-6/cloud4-venus-eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud4-feign-6/cloud4-venus-provider-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud4-feign-6/cloud4-venus-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud4-feign-6/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud4-feign-6/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud5-2-ribbon/cloud5-2-eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud5-2-ribbon/cloud5-2-ribbon-loadbalancer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud5-2-ribbon/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud5-2-ribbon/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud5-ribbon-1/cloud5-1-client-a/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud5-ribbon-1/cloud5-1-eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud5-ribbon-1/cloud5-1-ribbonlobance/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud5-ribbon-1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud5-ribbon-1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud6-1-hystrix/cloud6-1-client-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud6-1-hystrix/cloud6-1-eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud6-1-hystrix/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud6-1-hystrix/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud6-2-hystrix/cloud6-2-eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud6-2-hystrix/cloud6-2-hystrix-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud6-2-hystrix/cloud6-2-hystrix-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud6-2-hystrix/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud6-2-hystrix/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud6-3-hystrix/cloud6-3-eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud6-3-hystrix/cloud6-3-hello-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud6-3-hystrix/cloud6-3-hystrix-dashboard/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud6-3-hystrix/cloud6-3-hystrix-exception-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud6-3-hystrix/cloud6-3-provider-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud6-3-hystrix/cloud6-3-turbine/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud6-3-hystrix/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud6-3-hystrix/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud6-4-hystrix/cloud6-4-collapsing/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud6-4-hystrix/cloud6-4-eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud6-4-hystrix/cloud6-4-hystrix-cache/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud6-4-hystrix/cloud6-4-hystrix-thread-context/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud6-4-hystrix/cloud6-4-provider-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud6-4-hystrix/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud6-4-hystrix/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>

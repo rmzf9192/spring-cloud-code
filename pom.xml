@@ -12,6 +12,28 @@
         <module>cloud-eureka-2</module>
         <module>ch3-2</module>
         <module>cloud3-3</module>
+        <module>cloud3-4</module>
+        <module>cloud3-4</module>
+        <module>cloud3-5</module>
+        <module>cloud4-fegin-1</module>
+        <module>cloud4-feign-2</module>
+        <module>cloud4-feign-3</module>
+        <module>cloud4-feign-4</module>
+        <module>cloud4-feign-4/cloud4-4-feign-file-server</module>
+        <module>cloud4-feign-4/cloud4-4-feign-upload-client</module>
+        <module>cloud4-feign-5</module>
+        <module>cloud4-feign-5/cloud4-5-consumer</module>
+        <module>cloud4-feign-5/cloud4-5-provider</module>
+        <module>cloud4-feign-6</module>
+        <module>cloud4-feign-6</module>
+        <module>cloud5-ribbon-1</module>
+        <module>cloud5-2-ribbon</module>
+        <module>cloud6-1-hystrix</module>
+        <module>cloud6-1-client-service</module>
+        <module>cloud6-2-hystrix</module>
+        <module>cloud6-2-hystrix/cloud6-2-consumer-service</module>
+        <module>cloud6-3-hystrix</module>
+        <module>cloud6-4-hystrix</module>
     </modules>
     <packaging>pom</packaging>
 
