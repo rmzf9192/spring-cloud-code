@@ -1,0 +1,12 @@
+
+########################## 默认配置 ##########################
+#单实例serviceId映射
+#zuul:
+#  routes:
+#    client-a:
+#      path: /client-a/**
+#      serviceId: client-a
+# 更加简单的映射规则
+zuul:
+  routes:
+    client-a: 

@@ -1,0 +1,12 @@
+
+########################## 映射覆盖情况 ##########################
+#经测试，总是会路由到yml配置文件后面那个服务，也就是client-a服务，在yml解释器工作的时候，如果同一个映射路径对应多个服务，按照加载顺序，
+#最末加载的映射规则会把之前的映射规则覆盖掉。
+zuul:
+  routes:
+    client-b:
+      path: /client/**
+      serviceId: client-b
+    client-a:
+      path: /client/**
+      serviceId: client-a

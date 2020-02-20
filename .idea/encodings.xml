@@ -94,6 +94,68 @@
     <file url="file://$PROJECT_DIR$/cloud6-4-hystrix/cloud6-4-provider-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud6-4-hystrix/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud6-4-hystrix/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud7-1-zuul/cloud7-1-client-a/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud7-1-zuul/cloud7-1-eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud7-1-zuul/cloud7-1-zuul-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud7-1-zuul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud7-1-zuul/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud7-2-zuul/cloud7-2-client-a/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud7-2-zuul/cloud7-2-eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud7-2-zuul/cloud7-2-eureka-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud7-2-zuul/cloud7-2-zuul-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud7-2-zuul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud7-2-zuul/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud7-3-zuul/cloud7-3-client-a/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud7-3-zuul/cloud7-3-client-b/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud7-3-zuul/cloud7-3-eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud7-3-zuul/cloud7-3-zuul-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud7-3-zuul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud7-3-zuul/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud8-1-zuul/cloud8-1-client-a/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud8-1-zuul/cloud8-1-eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud8-1-zuul/cloud8-1-zuul-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud8-1-zuul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud8-1-zuul/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud8-2-zuul/cloud8-2-auth-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud8-2-zuul/cloud8-2-client-a/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud8-2-zuul/cloud8-2-eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud8-2-zuul/cloud8-2-eureka-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud8-2-zuul/cloud8-2-zuul-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud8-2-zuul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud8-2-zuul/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud8-3-zuul/cloud8-3-client-a/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud8-3-zuul/cloud8-3-eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud8-3-zuul/cloud8-3-zuul-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud8-3-zuul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud8-3-zuul/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud8-4-zuul/cloud8-4-client-a/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud8-4-zuul/cloud8-4-eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud8-4-zuul/cloud8-4-zuul-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud8-4-zuul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud8-4-zuul/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud8-5-zuul/cloud8-5-client-a/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud8-5-zuul/cloud8-5-eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud8-5-zuul/cloud8-5-zuul-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud8-5-zuul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud8-5-zuul/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud8-6-zuul/cloud8-6-eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud8-6-zuul/cloud8-6-zuul-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud8-6-zuul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud8-6-zuul/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud8-7-zuul/client8-7-client-a/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud8-7-zuul/cloud8-7-eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud8-7-zuul/cloud8-7-zuul-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud8-7-zuul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud8-7-zuul/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud9-1/cloud9-1-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud9-1/cloud9-1-config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud9-1/cloud9-1-data-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud9-1/cloud9-1-eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud9-1/cloud9-1-hystrix-dashboard/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud9-1/cloud9-1-user-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud9-1/cloud9-1-zuul-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud9-1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud9-1/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>

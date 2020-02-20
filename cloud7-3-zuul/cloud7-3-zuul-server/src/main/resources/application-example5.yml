@@ -1,0 +1,13 @@
+
+########################## 敏感头设置 ##########################
+# 在构建系统的时候，使用HTTP的header传值是十分方便的，协议的一些认证信息默认也在header，比如Cookie，或者
+#习惯把基本认证通过BASE64加密后放在Authorization里面。在我们内部系统没有什么问题，但是如果系统要和外部体统打交道，就可能
+#会出现这些信息的泄露。在zuul的配置里面可以指定敏感头，切断它和下层服务之间的交互。
+zuul:
+  prefix: /pre
+  routes:
+    client-a:
+      path: /client/**
+      sensitiveHeaders: Cookie,Set-Cookie,Authorization
+      serviceId: client-a
+      stripPrefix: false

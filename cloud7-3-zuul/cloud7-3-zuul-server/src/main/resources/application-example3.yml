@@ -1,0 +1,12 @@
+
+########################## 简化配置 ##########################
+
+#zuul:
+#  routes:
+#    client-a:
+#      path: /client/**
+#      serviceId: client-a
+#从/client/** 到 client-a服务的映射规则，其实可以用下面的配置
+zuul:
+  routes:
+    client-a: /client/**

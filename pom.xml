@@ -34,6 +34,17 @@
         <module>cloud6-2-hystrix/cloud6-2-consumer-service</module>
         <module>cloud6-3-hystrix</module>
         <module>cloud6-4-hystrix</module>
+        <module>cloud7-1-zuul</module>
+        <module>cloud7-2-zuul</module>
+        <module>cloud7-3-zuul</module>
+        <module>cloud8-1-zuul</module>
+        <module>cloud8-2-zuul</module>
+        <module>cloud8-3-zuul</module>
+        <module>cloud8-4-zuul</module>
+        <module>cloud8-5-zuul</module>
+        <module>cloud8-6-zuul</module>
+        <module>cloud8-7-zuul</module>
+        <module>cloud9-1</module>
     </modules>
     <packaging>pom</packaging>
 

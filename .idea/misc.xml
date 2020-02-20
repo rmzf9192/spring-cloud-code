@@ -16,6 +16,7 @@
         <option value="$PROJECT_DIR$/cloud4-feign-6/pom.xml" />
         <option value="$PROJECT_DIR$/cloud6-1-client-service/pom.xml" />
         <option value="$PROJECT_DIR$/cloud6-2-hystrix/cloud6-2-consumer-service/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud8-1-zuul-server/pom.xml" />
       </set>
     </option>
   </component>
