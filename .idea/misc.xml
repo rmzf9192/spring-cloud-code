@@ -10,6 +10,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/cloud-eureka-3/cloud3-zuul-gateway2/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud10-2-config/pom.xml" />
         <option value="$PROJECT_DIR$/cloud3-4/cloud3-4-eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/cloud4-feign-6/cloud4-6-provider/pom.xml" />
         <option value="$PROJECT_DIR$/cloud4-feign-6/cloud4-6-provider1/pom.xml" />
