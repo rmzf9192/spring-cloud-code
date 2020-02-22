@@ -49,6 +49,8 @@
         <module>cloud10-2-config</module>
         <module>cloud10-3-config</module>
         <module>cloud11-1-config</module>
+        <module>cloud11-2-config</module>
+        <module>cloud11-3-config</module>
     </modules>
     <packaging>pom</packaging>
 

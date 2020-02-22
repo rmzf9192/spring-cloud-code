@@ -30,8 +30,17 @@
     <file url="file://$PROJECT_DIR$/cloud10-3-config/cloud10-3-config-server-bus/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud10-3-config/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud10-3-config/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud11-1-config/cloud11-1-config-client-placeholder/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud11-1-config/cloud11-1-config-server-placeholder/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud11-1-config/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud11-1-config/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud11-2-config/cloud11-2-config-client-multiple-repositories/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud11-2-config/cloud11-2-config-server-multiple-repositories/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud11-2-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud11-2-config/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud11-3-config/cloud11-3-config-server-db/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud11-3-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud11-3-config/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud3-3/ch3-3-eureka-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud3-3/cloud3-3-eureka-client/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud3-3/cloud3-3-eureka-client/src/main/resources" charset="UTF-8" />
