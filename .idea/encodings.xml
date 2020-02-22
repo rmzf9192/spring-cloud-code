@@ -57,6 +57,21 @@
     <file url="file://$PROJECT_DIR$/cloud11-6-config/cloud11-6-config-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud11-6-config/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud11-6-config/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud11-7-config/cloud11-7-config-client-auth-jwt/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud11-7-config/cloud11-7-config-client-jwt/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud11-7-config/cloud11-7-config-server-auth-jwt/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud11-7-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud11-7-config/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud11-8-config/cloud11-8-config-client-high-availability-autoconfig/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud11-8-config/cloud11-8-config-client-high-availability/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud11-8-config/cloud11-8-config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud11-8-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud11-8-config/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud11-9-config/cloud11-9-config-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud11-9-config/cloud11-9-config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud11-9-config/cloud11-9-eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud11-9-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud11-9-config/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud3-3/ch3-3-eureka-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud3-3/cloud3-3-eureka-client/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud3-3/cloud3-3-eureka-client/src/main/resources" charset="UTF-8" />
