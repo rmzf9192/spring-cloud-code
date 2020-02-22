@@ -6,22 +6,22 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="cloud8-2-eureka-server" />
-        <module name="cloud4-4-eureka-server" />
+        <module name="cloud4-4-feign-upload-client" />
         <module name="eureka-client" />
+        <module name="cloud10-3-config-server-bus" />
         <module name="cloud5-1-eureka-server" />
         <module name="cloud9-1-zuul-server" />
         <module name="cloud4-5-consumer" />
         <module name="cloud8-2-client-a" />
         <module name="cloud6-3-turbine" />
         <module name="cloud7-2-zuul-server" />
-        <module name="cloud8-2-zuul-server" />
-        <module name="ch3-3-eureka-server" />
-        <module name="cloud7-3-client-b" />
-        <module name="client8-7-client-a" />
+        <module name="cloud11-6-config-client-fallback-autoconfig" />
+        <module name="cloud11-5-config-client-refresh-autoconfig" />
+        <module name="cloud2-eureka-server" />
         <module name="cloud4-4-feign-file-server" />
-        <module name="cloud7-1-zuul-server" />
+        <module name="cloud3-3-zuul-gateway" />
         <module name="cloud3-zuul-gateway2" />
+        <module name="cloud6-2-eureka-server" />
         <module name="cloud4-3-okhttp" />
         <module name="cloud5-2-ribbon-loadbalancer" />
         <module name="cloud6-4-hystrix-thread-context" />
@@ -34,49 +34,54 @@
         <module name="cloud8-2-auth-server" />
         <module name="cloud6-3-hystrix-exception-service" />
         <module name="cloud7-1-client-a" />
+        <module name="cloud11-4-config-client-mongodb" />
         <module name="cloud7-2-eureka-server" />
         <module name="cloud6-4-collapsing" />
-        <module name="cloud6-3-hello-service" />
+        <module name="cloud8-2-zuul-server" />
         <module name="ch3-2-eureka-client" />
         <module name="cloud8-3-eureka-server" />
+        <module name="cloud11-2-config-server-multiple-repositories" />
         <module name="cloud10-1-config-client" />
         <module name="cloud4-venus-eureka-server" />
         <module name="cloud11-2-config-client-multiple-repositories" />
-        <module name="cloud11-3-config-client-db" />
+        <module name="cloud7-2-client-a" />
         <module name="cloud5-1-ribbonlobance" />
-        <module name="cloud4-2-eureka-server" />
+        <module name="cloud8-2-eureka-server" />
         <module name="cloud7-1-eureka-server" />
         <module name="cloud8-3-client-a" />
-        <module name="cloud2-config-server" />
         <module name="cloud8-4-client-a" />
+        <module name="cloud4-2-eureka-server" />
+        <module name="cloud6-3-provider-service" />
         <module name="cloud9-1-common" />
         <module name="cloud6-2-hystrix-consumer" />
         <module name="cloud9-1-config-server" />
-        <module name="cloud6-3-provider-service" />
+        <module name="cloud11-6-config-server" />
+        <module name="cloud11-5-config-client-auto-refresh" />
         <module name="cloud7-3-eureka-server" />
-        <module name="cloud10-3-config-server-bus" />
-        <module name="cloud4-3-httpclient" />
-        <module name="ch3-5-eureka-server" />
-        <module name="cloud8-4-eureka-server" />
         <module name="cloud4-venus-provider" />
+        <module name="ch3-5-eureka-server" />
+        <module name="cloud4-4-eureka-server" />
+        <module name="cloud8-4-eureka-server" />
+        <module name="cloud2-config-server" />
+        <module name="cloud6-3-hello-service" />
         <module name="cloud7-3-zuul-server" />
         <module name="cloud10-3-config-client-bus-refresh-server" />
         <module name="cloud6-1-eureka-server" />
-        <module name="cloud6-4-provider-service" />
         <module name="cloud4-fegin-hello" />
-        <module name="cloud7-2-client-a" />
+        <module name="cloud11-1-config-client-placeholder" />
         <module name="cloud8-1-client-a" />
-        <module name="cloud11-2-config-server-multiple-repositories" />
+        <module name="cloud7-3-client-b" />
         <module name="cloud7-3-client-a" />
         <module name="cloud8-6-eureka-server" />
-        <module name="ch3-4-eureka-client" />
         <module name="cloud6-2-consumer-service" />
-        <module name="cloud3-3-zuul-gateway" />
+        <module name="cloud7-1-zuul-server" />
         <module name="cloud8-5-eureka-server" />
-        <module name="cloud2-eureka-server" />
+        <module name="cloud4-5-eureka-server" />
+        <module name="cloud6-3-hystrix-dashboard" />
         <module name="cloud3-4-eureka-server" />
         <module name="cloud4-venus-consumer" />
-        <module name="cloud4-5-eureka-server" />
+        <module name="cloud11-5-config-server" />
+        <module name="ch3-4-eureka-client" />
         <module name="cloud9-1-data-service" />
         <module name="cloud6-4-hystrix-cache" />
         <module name="cloud10-3-config-client-bus-refresh" />
@@ -84,12 +89,13 @@
         <module name="cloud8-3-zuul-server" />
         <module name="ch3-2-zuul-gateway" />
         <module name="cloud4-fegin-gzip" />
-        <module name="cloud6-2-eureka-server" />
+        <module name="cloud6-4-provider-service" />
         <module name="cloud9-1-user-service" />
+        <module name="cloud6-1-client-service" />
         <module name="cloud8-6-zuul-server" />
-        <module name="cloud6-3-hystrix-dashboard" />
+        <module name="client8-7-client-a" />
         <module name="cloud11-1-config-server-placeholder" />
-        <module name="cloud8-7-eureka-server" />
+        <module name="cloud4-3-httpclient" />
         <module name="cloud5-1-client-a" />
         <module name="cloud9-1-hystrix-dashboard" />
         <module name="cloud9-1-eureka-server" />
@@ -98,23 +104,27 @@
         <module name="cloud10-2-config-server" />
         <module name="cloud6-4-eureka-server" />
         <module name="cloud4-5-provider" />
-        <module name="cloud6-1-client-service" />
+        <module name="cloud11-4-config-server-mongodb" />
         <module name="cloud3-3-eureka-client" />
         <module name="cloud4-2-provider" />
         <module name="cloud4-2-consumer" />
         <module name="cloud8-1-eureka-server" />
+        <module name="cloud11-3-config-client-db" />
         <module name="ch3-5-eureka-client" />
         <module name="cloud10-1-config-server" />
-        <module name="cloud11-1-config-client-placeholder" />
+        <module name="ch3-3-eureka-server" />
         <module name="cloud10-2-config-client-refresh" />
-        <module name="cloud4-4-feign-upload-client" />
+        <module name="cloud8-7-eureka-server" />
         <module name="cloud8-5-zuul-server" />
+        <module name="cloud11-6-config-client-fallback" />
         <module name="cloud4-venus-provider-client" />
         <module name="eureka-server" />
         <module name="cloud5-2-eureka-server" />
+        <module name="ch11-5-config-client-refresh-autoconfig" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="ch11-5-config-client-refresh-autoconfig" target="1.8" />
       <module name="cloud-eureka-3" target="1.8" />
       <module name="cloud10-1-config (1)" target="1.8" />
       <module name="cloud10-1-config-client (1)" target="1.5" />
@@ -139,6 +149,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ch11-5-config-client-refresh-autoconfig" options="-parameters" />
       <module name="ch3-2" options="-parameters" />
       <module name="ch3-2-eureka-client" options="-parameters" />
       <module name="ch3-2-eureka-server" options="-parameters" />
@@ -174,6 +185,16 @@
       <module name="cloud11-3-config" options="" />
       <module name="cloud11-3-config-client-db" options="-parameters" />
       <module name="cloud11-3-config-server-db" options="-parameters" />
+      <module name="cloud11-4-config" options="" />
+      <module name="cloud11-4-config-client-mongodb" options="-parameters" />
+      <module name="cloud11-4-config-server-mongodb" options="-parameters" />
+      <module name="cloud11-5-config-client-auto-refresh" options="-parameters" />
+      <module name="cloud11-5-config-client-refresh-autoconfig" options="-parameters" />
+      <module name="cloud11-5-config-server" options="-parameters" />
+      <module name="cloud11-6-config" options="" />
+      <module name="cloud11-6-config-client-fallback" options="-parameters" />
+      <module name="cloud11-6-config-client-fallback-autoconfig" options="-parameters" />
+      <module name="cloud11-6-config-server" options="-parameters" />
       <module name="cloud2-config-server" options="-parameters" />
       <module name="cloud2-eureka-client" options="-parameters" />
       <module name="cloud2-eureka-server" options="-parameters" />

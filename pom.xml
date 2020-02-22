@@ -29,9 +29,7 @@
         <module>cloud5-ribbon-1</module>
         <module>cloud5-2-ribbon</module>
         <module>cloud6-1-hystrix</module>
-        <module>cloud6-1-client-service</module>
         <module>cloud6-2-hystrix</module>
-        <module>cloud6-2-hystrix/cloud6-2-consumer-service</module>
         <module>cloud6-3-hystrix</module>
         <module>cloud6-4-hystrix</module>
         <module>cloud7-1-zuul</module>
@@ -51,6 +49,9 @@
         <module>cloud11-1-config</module>
         <module>cloud11-2-config</module>
         <module>cloud11-3-config</module>
+        <module>cloud11-4-config</module>
+        <module>cloud11-5-config</module>
+        <module>cloud11-6-config</module>
     </modules>
     <packaging>pom</packaging>
 
