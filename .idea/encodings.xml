@@ -34,6 +34,13 @@
     <file url="file://$PROJECT_DIR$/cloud11-1-config/cloud11-1-config-server-placeholder/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud11-1-config/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud11-1-config/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud11-10-config/cloud11-10-apollo-build-script/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud11-10-config/cloud11-10-config-client-apollo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud11-10-config/cloud11-10-config-client-apollo2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud11-10-config/cloud11-10-eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud11-10-config/cloud11-10-gateway-zuul-apollo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud11-10-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud11-10-config/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud11-2-config/cloud11-2-config-client-multiple-repositories/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud11-2-config/cloud11-2-config-server-multiple-repositories/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud11-2-config/src/main/java" charset="UTF-8" />

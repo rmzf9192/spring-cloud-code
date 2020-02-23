@@ -55,6 +55,7 @@
         <module>cloud11-7-config</module>
         <module>cloud11-8-config</module>
         <module>cloud11-9-config</module>
+        <module>cloud11-10-config</module>
     </modules>
     <packaging>pom</packaging>
 
