@@ -13,47 +13,48 @@
     <artifactId>cloud10-1-config</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>cloud10-1-common</module>
-        <module>cloud10-1-config-server</module>
-        <module>cloud10-1-data-service</module>
-        <module>cloud10-1-eureka-server</module>
-        <module>cloud10-1-hystrix-dashboard</module>
-        <module>cloud10-1-user-service</module>
-        <module>cloud10-1-zuul-server</module>
+        <module>cloud10-1-config-client</module>
+        <module>cloud10-1-config-server1</module>
     </modules>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
-        <spring-cloud.version>Finchley.RELEASE</spring-cloud.version>
-        <common.version>0.0.1-SNAPSHOT</common.version>
     </properties>
 
+    <!--  利用传递依赖, 公共部分  -->
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
+
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+            <scope>test</scope>
+        </dependency>
+
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-actuator</artifactId>
         </dependency>
     </dependencies>
 
+    <!-- 管理依赖  -->
     <dependencyManagement>
-
         <dependencies>
             <dependency>
                 <groupId>org.springframework.cloud</groupId>
                 <artifactId>spring-cloud-dependencies</artifactId>
-                <version>${spring-cloud.version}</version>
+                <version>Finchley.RELEASE</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
         </dependencies>
     </dependencyManagement>
 
-    <!--注意： 这里必须要添加，否则各种依赖有问题 -->
     <repositories>
         <repository>
             <id>spring-milestones</id>
@@ -73,6 +74,5 @@
             </plugin>
         </plugins>
     </build>
-
 
 </project>

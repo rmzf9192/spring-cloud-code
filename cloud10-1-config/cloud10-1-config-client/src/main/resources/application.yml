@@ -1,0 +1,6 @@
+server:
+  port: 9091
+
+spring:
+  application:
+    name: ch10-1-config-client

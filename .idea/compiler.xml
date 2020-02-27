@@ -8,19 +8,21 @@
         <outputRelativeToContentRoot value="true" />
         <module name="cloud11-2-config-server-multiple-repositories" />
         <module name="cloud4-venus-provider-client" />
-        <module name="cloud10-1-config-server" />
         <module name="cloud11-10-config-client-apollo2" />
         <module name="cloud8-2-zuul-server" />
         <module name="cloud11-9-config-client" />
         <module name="cloud8-6-zuul-server" />
+        <module name="cloud12-1-consul-consumer" />
         <module name="cloud11-7-config-client-auth-jwt" />
         <module name="cloud11-2-config-client-multiple-repositories" />
         <module name="cloud4-3-httpclient" />
         <module name="cloud11-4-config-server-mongodb" />
         <module name="cloud8-4-eureka-server" />
         <module name="cloud11-10-config-client-apollo" />
+        <module name="cloud13-1-consul-register" />
         <module name="cloud11-7-config-client-jwt" />
         <module name="cloud8-1-zuul-server" />
+        <module name="cloud10-1-config-server1" />
         <module name="cloud6-3-hystrix-exception-service" />
         <module name="cloud11-10-eureka-server" />
         <module name="cloud6-3-eureka-server" />
@@ -28,6 +30,7 @@
         <module name="cloud4-3-okhttp" />
         <module name="cloud4-2-consumer" />
         <module name="ch3-2-eureka-client" />
+        <module name="cloud13-2-consul-consumer-discoveryclient" />
         <module name="cloud9-1-user-service" />
         <module name="cloud4-2-eureka-server" />
         <module name="cloud11-3-config-client-db" />
@@ -56,8 +59,10 @@
         <module name="cloud8-4-client-a" />
         <module name="cloud6-3-turbine" />
         <module name="cloud11-6-config-client-fallback" />
+        <module name="cloud13-4-consul-overrider-provider-tag1" />
         <module name="cloud7-2-eureka-server" />
         <module name="cloud11-1-config-server-placeholder" />
+        <module name="cloud13-5-consul-provider1" />
         <module name="cloud5-1-eureka-server" />
         <module name="cloud10-1-config-client" />
         <module name="cloud3-3-zuul-gateway" />
@@ -73,9 +78,12 @@
         <module name="cloud6-1-eureka-server" />
         <module name="cloud6-1-client-service" />
         <module name="cloud6-4-collapsing" />
+        <module name="cloud13-5-consul-provider2" />
         <module name="cloud3-3-eureka-client" />
         <module name="cloud4-2-provider" />
         <module name="cloud2-eureka-client" />
+        <module name="cloud13-2-consul-provider-tag-1" />
+        <module name="cloud13-2-consul-provider-tag-2" />
         <module name="cloud7-3-eureka-server" />
         <module name="cloud7-1-eureka-server" />
         <module name="cloud9-1-hystrix-dashboard" />
@@ -90,20 +98,22 @@
         <module name="cloud6-4-provider-service" />
         <module name="cloud8-1-eureka-server" />
         <module name="cloud4-venus-consumer" />
-        <module name="cloud10-1-hystrix-dashboard" />
         <module name="ch3-3-eureka-server" />
         <module name="cloud3-3-eureka-server" />
+        <module name="cloud13-5-consul-overrider-consumer-new" />
         <module name="cloud3-zuul-gateway2" />
+        <module name="cloud13-3-consul-config-customize" />
         <module name="cloud10-3-config-client-bus-refresh" />
         <module name="cloud9-1-eureka-server" />
         <module name="cloud11-1-config-client-placeholder" />
         <module name="cloud10-3-config-server-bus" />
+        <module name="cloud13-4-consul-overrider-consumer" />
         <module name="cloud8-6-eureka-server" />
         <module name="cloud11-3-config-server-db" />
+        <module name="cloud13-2-consul-consumer-ribbon" />
         <module name="cloud3-4-eureka-server" />
         <module name="cloud8-5-client-a" />
         <module name="cloud10-2-config-client-refresh" />
-        <module name="cloud10-1-data-service" />
         <module name="cloud4-5-consumer" />
         <module name="cloud4-4-feign-upload-client" />
         <module name="cloud8-5-zuul-server" />
@@ -113,6 +123,8 @@
         <module name="cloud11-4-config-client-mongodb" />
         <module name="cloud4-4-eureka-server" />
         <module name="cloud4-5-provider" />
+        <module name="cloud12-1-consul-config" />
+        <module name="cloud12-1-consul-provider" />
         <module name="ch11-5-config-client-refresh-autoconfig" />
         <module name="cloud11-9-config-server" />
         <module name="ch3-2-eureka-server" />
@@ -122,8 +134,6 @@
         <module name="cloud11-8-config-client-high-availability-autoconfig" />
         <module name="cloud11-10-apollo-build-script" />
         <module name="cloud11-5-config-client-refresh-autoconfig" />
-        <module name="cloud10-1-eureka-server" />
-        <module name="cloud10-1-common" />
         <module name="cloud11-8-config-server" />
         <module name="cloud10-1-zuul-server" />
         <module name="cloud8-5-eureka-server" />
@@ -136,20 +146,28 @@
         <module name="cloud9-1-zuul-server" />
         <module name="cloud6-4-eureka-server" />
         <module name="cloud6-2-consumer-service" />
+        <module name="cloud13-5-consul-overrider-consumer" />
         <module name="cloud8-3-zuul-server" />
+        <module name="cloud13-4-consul-overrider-provider-tag2" />
         <module name="cloud7-3-client-b" />
         <module name="cloud7-3-client-a" />
         <module name="cloud8-3-client-a" />
-        <module name="cloud10-1-user-service" />
         <module name="cloud8-2-auth-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ch11-5-config-client-refresh-autoconfig" target="1.8" />
       <module name="cloud-eureka-3" target="1.8" />
+      <module name="cloud10-1-common" target="1.8" />
       <module name="cloud10-1-config (1)" target="1.8" />
       <module name="cloud10-1-config-client (1)" target="1.5" />
+      <module name="cloud10-1-config-server" target="1.8" />
       <module name="cloud10-1-config-server (1)" target="1.5" />
+      <module name="cloud10-1-data-service" target="1.8" />
+      <module name="cloud10-1-eureka-server" target="1.8" />
+      <module name="cloud10-1-hystrix-dashboard" target="1.8" />
+      <module name="cloud10-1-user-service" target="1.8" />
+      <module name="cloud10-1-zuul-server" target="1.8" />
       <module name="cloud10-2-config" target="1.8" />
       <module name="cloud11-1-config-server-placeholders" target="1.8" />
       <module name="cloud3-4-eureka-server" target="1.8" />
@@ -190,6 +208,7 @@
       <module name="cloud10-1-config-client (1)" options="-parameters" />
       <module name="cloud10-1-config-server" options="-parameters" />
       <module name="cloud10-1-config-server (1)" options="-parameters" />
+      <module name="cloud10-1-config-server1" options="-parameters" />
       <module name="cloud10-1-data-service" options="-parameters" />
       <module name="cloud10-1-eureka-server" options="-parameters" />
       <module name="cloud10-1-hystrix-dashboard" options="-parameters" />
@@ -240,6 +259,28 @@
       <module name="cloud11-9-config-client" options="-parameters" />
       <module name="cloud11-9-config-server" options="-parameters" />
       <module name="cloud11-9-eureka-server" options="-parameters" />
+      <module name="cloud12-1-consul" options="" />
+      <module name="cloud12-1-consul-config" options="-parameters" />
+      <module name="cloud12-1-consul-consumer" options="-parameters" />
+      <module name="cloud12-1-consul-provider" options="-parameters" />
+      <module name="cloud13-1-consul" options="" />
+      <module name="cloud13-1-consul-register" options="-parameters" />
+      <module name="cloud13-2-consul" options="" />
+      <module name="cloud13-2-consul-consumer-discoveryclient" options="-parameters" />
+      <module name="cloud13-2-consul-consumer-ribbon" options="-parameters" />
+      <module name="cloud13-2-consul-provider-tag-1" options="-parameters" />
+      <module name="cloud13-2-consul-provider-tag-2" options="-parameters" />
+      <module name="cloud13-3-consul" options="" />
+      <module name="cloud13-3-consul-config-customize" options="-parameters" />
+      <module name="cloud13-4-consul" options="" />
+      <module name="cloud13-4-consul-overrider-consumer" options="-parameters" />
+      <module name="cloud13-4-consul-overrider-provider-tag1" options="-parameters" />
+      <module name="cloud13-4-consul-overrider-provider-tag2" options="-parameters" />
+      <module name="cloud13-5-consul" options="" />
+      <module name="cloud13-5-consul-overrider-consumer" options="-parameters" />
+      <module name="cloud13-5-consul-overrider-consumer-new" options="-parameters" />
+      <module name="cloud13-5-consul-provider1" options="-parameters" />
+      <module name="cloud13-5-consul-provider2" options="-parameters" />
       <module name="cloud2-config-server" options="-parameters" />
       <module name="cloud2-eureka-client" options="-parameters" />
       <module name="cloud2-eureka-server" options="-parameters" />

@@ -11,13 +11,8 @@
     <file url="file://$PROJECT_DIR$/cloud-eureka/eureka-client/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud-eureka/eureka-client/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud-eureka/eureka-server/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/cloud10-1-config/cloud10-1-common/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/cloud10-1-config/cloud10-1-config-server/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/cloud10-1-config/cloud10-1-data-service/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/cloud10-1-config/cloud10-1-eureka-server/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/cloud10-1-config/cloud10-1-hystrix-dashboard/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/cloud10-1-config/cloud10-1-user-service/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/cloud10-1-config/cloud10-1-zuul-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud10-1-config/cloud10-1-config-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud10-1-config/cloud10-1-config-server1/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud10-1-config/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud10-1-config/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud10-2-config/cloud10-2-config-client-refresh/src/main/java" charset="UTF-8" />
@@ -53,6 +48,34 @@
     <file url="file://$PROJECT_DIR$/cloud11-9-config/cloud11-9-config-client/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud11-9-config/cloud11-9-config-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud11-9-config/cloud11-9-eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud12-1-consul/cloud12-1-consul-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud12-1-consul/cloud12-1-consul-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud12-1-consul/cloud12-1-consul-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud12-1-consul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud12-1-consul/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud13-1-consul/cloud13-1-consul-register/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud13-1-consul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud13-1-consul/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud13-2-consul/cloud13-2-consul-consumer-discoveryclient/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud13-2-consul/cloud13-2-consul-consumer-ribbon/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud13-2-consul/cloud13-2-consul-provider-tag-1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud13-2-consul/cloud13-2-consul-provider-tag-2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud13-2-consul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud13-2-consul/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud13-3-consul/cloud13-3-consul-config-customize/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud13-3-consul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud13-3-consul/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud13-4-consul/cloud13-4-consul-overrider-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud13-4-consul/cloud13-4-consul-overrider-provider-tag1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud13-4-consul/cloud13-4-consul-overrider-provider-tag2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud13-4-consul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud13-4-consul/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud13-5-consul/cloud13-5-consul-overrider-consumer-new/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud13-5-consul/cloud13-5-consul-overrider-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud13-5-consul/cloud13-5-consul-provider1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud13-5-consul/cloud13-5-consul-provider2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud13-5-consul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud13-5-consul/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud3-3/ch3-3-eureka-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud3-3/cloud3-3-eureka-client/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud3-3/cloud3-3-eureka-client/src/main/resources" charset="UTF-8" />

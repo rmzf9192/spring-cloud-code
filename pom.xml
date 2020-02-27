@@ -56,6 +56,12 @@
         <module>cloud11-9-config</module>
         <module>cloud11-10-config</module>
         <module>cloud10-1-config</module>
+        <module>cloud12-1-consul</module>
+        <module>cloud13-1-consul</module>
+        <module>cloud13-2-consul</module>
+        <module>cloud13-3-consul</module>
+        <module>cloud13-4-consul</module>
+        <module>cloud13-5-consul</module>
     </modules>
     <packaging>pom</packaging>
 
