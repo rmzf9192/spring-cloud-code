@@ -83,6 +83,21 @@
     <file url="file://$PROJECT_DIR$/cloud14-1/cloud14-1-provider-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud14-1/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud14-1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud15-1-sleuth/cloud15-1-sleuth-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud15-1-sleuth/cloud15-1-sleuth-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud15-1-sleuth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud15-1-sleuth/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud15-2-sleuth/cloud15-2-sleuth-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud15-2-sleuth/cloud15-2-sleuth-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud15-2-sleuth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud15-2-sleuth/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud15-3-sleuth/cloud15-3-eureka-skywalking/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud15-3-sleuth/cloud15-3-script/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud15-3-sleuth/cloud15-3-service-a/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud15-3-sleuth/cloud15-3-service-b/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud15-3-sleuth/cloud15-3-zuul-skywalking/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud15-3-sleuth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud15-3-sleuth/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud3-3/ch3-3-eureka-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud3-3/cloud3-3-eureka-client/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud3-3/cloud3-3-eureka-client/src/main/resources" charset="UTF-8" />

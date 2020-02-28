@@ -63,6 +63,9 @@
         <module>cloud13-4-consul</module>
         <module>cloud13-5-consul</module>
         <module>cloud14-1</module>
+        <module>cloud15-1-sleuth</module>
+        <module>cloud15-2-sleuth</module>
+        <module>cloud15-3-sleuth</module>
     </modules>
     <packaging>pom</packaging>
 
