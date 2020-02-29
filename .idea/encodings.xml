@@ -98,6 +98,32 @@
     <file url="file://$PROJECT_DIR$/cloud15-3-sleuth/cloud15-3-zuul-skywalking/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud15-3-sleuth/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud15-3-sleuth/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud16-1-gateway/cloud16-1-gateway-1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud16-1-gateway/cloud16-1-gateway-2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud16-1-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud16-1-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud16-2-gateway/cloud16-2-1-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud16-2-gateway/cloud16-2-2-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud16-2-gateway/cloud16-2-3-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud16-2-gateway/cloud16-2-4-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud16-2-gateway/cloud16-2-5-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud16-2-gateway/cloud16-2-6-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud16-2-gateway/cloud16-2-7-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud16-2-gateway/cloud16-2-8-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud16-2-gateway/cloud16-2-9-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud16-2-gateway/cloud16-2-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud16-2-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud16-2-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud16-3-gateway/cloud16-3-1-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud16-3-gateway/cloud16-3-2-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud16-3-gateway/cloud16-3-3-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud16-3-gateway/cloud16-3-4-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud16-3-gateway/cloud16-3-5-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud16-3-gateway/cloud16-3-6-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud16-3-gateway/cloud16-3-7-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud16-3-gateway/cloud16-3-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud16-3-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud16-3-gateway/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud3-3/ch3-3-eureka-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud3-3/cloud3-3-eureka-client/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud3-3/cloud3-3-eureka-client/src/main/resources" charset="UTF-8" />

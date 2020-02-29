@@ -66,6 +66,9 @@
         <module>cloud15-1-sleuth</module>
         <module>cloud15-2-sleuth</module>
         <module>cloud15-3-sleuth</module>
+        <module>cloud16-1-gateway</module>
+        <module>cloud16-2-gateway</module>
+        <module>cloud16-3-gateway</module>
     </modules>
     <packaging>pom</packaging>
 
