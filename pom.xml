@@ -69,6 +69,7 @@
         <module>cloud16-1-gateway</module>
         <module>cloud16-2-gateway</module>
         <module>cloud16-3-gateway</module>
+        <module>cloud17-1-gateway</module>
     </modules>
     <packaging>pom</packaging>
 

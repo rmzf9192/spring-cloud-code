@@ -124,6 +124,9 @@
     <file url="file://$PROJECT_DIR$/cloud16-3-gateway/cloud16-3-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud16-3-gateway/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud16-3-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud17-1-gateway/cloud17-1-eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud17-1-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud17-1-gateway/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud3-3/ch3-3-eureka-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud3-3/cloud3-3-eureka-client/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud3-3/cloud3-3-eureka-client/src/main/resources" charset="UTF-8" />
