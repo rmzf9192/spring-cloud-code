@@ -1,7 +1,7 @@
 package com.el.cloud.service;
 
 import com.el.cloud.config.HystrixThreadLocal;
-import com.el.cloud.controller.ThreadContextController;
+import com.el.cloud.ThreadContextController;
 import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

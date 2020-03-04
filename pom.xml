@@ -70,6 +70,12 @@
         <module>cloud16-2-gateway</module>
         <module>cloud16-3-gateway</module>
         <module>cloud17-1-gateway</module>
+        <module>cloud17-2</module>
+        <module>cloud17-3</module>
+        <module>cloud17-4</module>
+        <module>cloud17-5</module>
+        <module>cloud17-6</module>
+        <module>cloud17-7</module>
     </modules>
     <packaging>pom</packaging>
 

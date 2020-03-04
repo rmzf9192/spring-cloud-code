@@ -14,6 +14,9 @@
     <packaging>pom</packaging>
     <modules>
         <module>cloud17-1-eureka</module>
+        <module>cloud17-1-provider</module>
+        <module>cloud17-1-gateway1</module>
+        <module>cloud17-1-consumer</module>
     </modules>
 
 
