@@ -159,6 +159,21 @@
     <file url="file://$PROJECT_DIR$/cloud17-7/cloud17-7-gateway/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud17-7/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud17-7/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud18-1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud18-2/grpc-lib/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud18-2/grpc-lib/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud18-2/grpc-simple-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud18-2/grpc-simple-client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud18-2/grpc-simple-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud18-2/grpc-simple-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud18-2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud18-2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud20/cloud20-1-eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud20/cloud20-grpc-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud20/cloud20-grpc-lib/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud20/cloud20-grpc-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud20/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud20/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud3-3/ch3-3-eureka-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud3-3/cloud3-3-eureka-client/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud3-3/cloud3-3-eureka-client/src/main/resources" charset="UTF-8" />
