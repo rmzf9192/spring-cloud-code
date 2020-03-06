@@ -6,25 +6,29 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="cloud13-5-consul-provider2" />
+        <module name="cloud11-2-config-server-multiple-repositories" />
         <module name="grpc-lib" />
-        <module name="cloud4-venus-provider-client" />
+        <module name="cloud9-1-zuul-server" />
+        <module name="crm-sales-consumer" />
+        <module name="cloud22-2-eureka-server" />
+        <module name="cloud17-3-provider" />
         <module name="cloud11-10-config-client-apollo2" />
         <module name="cloud8-2-zuul-server" />
         <module name="cloud17-1-provider" />
         <module name="cloud11-9-config-client" />
+        <module name="cloud17-6-provider" />
         <module name="cloud15-3-script" />
         <module name="cloud11-7-config-client-auth-jwt" />
         <module name="cloud20-1-eureka-server" />
-        <module name="cloud8-2-auth-server" />
+        <module name="cloud11-9-config-server" />
         <module name="cloud7-3-client-a" />
         <module name="cloud14-1-client-service" />
-        <module name="cloud6-2-hystrix-consumer" />
+        <module name="cloud22-spring-admin" />
         <module name="cloud4-3-httpclient" />
         <module name="cloud11-4-config-server-mongodb" />
         <module name="cloud8-4-eureka-server" />
         <module name="cloud11-10-config-client-apollo" />
-        <module name="cloud11-9-eureka-server" />
+        <module name="cloud22-3-example-service-2" />
         <module name="cloud11-7-config-client-jwt" />
         <module name="cloud16-2-7-gateway" />
         <module name="cloud8-1-zuul-server" />
@@ -35,15 +39,18 @@
         <module name="cloud7-3-zuul-server" />
         <module name="cloud4-3-okhttp" />
         <module name="cloud21-1-original-service" />
-        <module name="cloud9-1-zuul-server" />
+        <module name="cloud22-2-turbine" />
+        <module name="cloud8-6-zuul-server" />
+        <module name="cloud17-1-eureka" />
         <module name="ch3-2-eureka-client" />
-        <module name="cloud6-3-eureka-server" />
-        <module name="cloud13-2-consul-consumer-discoveryclient" />
+        <module name="tcc-rest-participant-api" />
+        <module name="cloud14-1-gateway" />
         <module name="cloud17-1-gateway1" />
         <module name="cloud4-2-eureka-server" />
         <module name="cloud11-3-config-client-db" />
-        <module name="cloud17-6-1-gateway" />
+        <module name="cloud17-2-gateway" />
         <module name="cloud18-1" />
+        <module name="cloud6-3-eureka-server" />
         <module name="cloud8-1-client-a" />
         <module name="cloud7-1-client-a" />
         <module name="cloud20-grpc-lib" />
@@ -53,24 +60,30 @@
         <module name="cloud17-6-2-gateway" />
         <module name="cloud3-3-zuul-gateway" />
         <module name="cloud4-fegin-gzip" />
+        <module name="crm-sales-start" />
         <module name="cloud5-2-eureka-server" />
         <module name="cloud11-6-config-client-fallback-autoconfig" />
         <module name="client8-7-client-a" />
+        <module name="cloud23-dubbo-provider" />
         <module name="cloud11-6-config-server" />
         <module name="cloud16-2-9-gateway" />
-        <module name="cloud10-1-config-client" />
+        <module name="crm-sales-client" />
         <module name="cloud9-1-common" />
         <module name="cloud8-3-eureka-server" />
         <module name="cloud16-2-5-gateway" />
         <module name="cloud11-10-eureka-server" />
+        <module name="cloud22-2-config-server" />
         <module name="cloud16-2-3-gateway" />
         <module name="cloud13-1-consul-register" />
         <module name="cloud16-2-1-gateway" />
+        <module name="cloud4-4-eureka-server" />
         <module name="cloud7-1-zuul-server" />
         <module name="cloud5-2-ribbon-loadbalancer" />
-        <module name="cloud10-2-config-server" />
+        <module name="cloud23-2-dubbo-provider-api" />
         <module name="cloud4-4-feign-upload-client" />
         <module name="cloud6-2-eureka-server" />
+        <module name="cloud24-jta-atomiks" />
+        <module name="dubbo-provider-api" />
         <module name="cloud16-3-service" />
         <module name="cloud5-1-ribbonlobance" />
         <module name="cloud4-venus-eureka-server" />
@@ -83,14 +96,16 @@
         <module name="cloud11-5-config-client-auto-refresh" />
         <module name="cloud8-4-client-a" />
         <module name="cloud6-3-turbine" />
-        <module name="cloud20-grpc-server" />
+        <module name="cloud17-6-1-gateway" />
         <module name="cloud14-1-provider-service" />
         <module name="cloud11-6-config-client-fallback" />
         <module name="cloud17-1-provider1" />
         <module name="cloud7-2-eureka-server" />
         <module name="cloud17-2-provider" />
         <module name="cloud17-5-eureka" />
-        <module name="cloud11-2-config-server-multiple-repositories" />
+        <module name="cloud22-2-biz-service" />
+        <module name="cloud6-4-hystrix-cache" />
+        <module name="inventory-service" />
         <module name="cloud15-3-zuul-skywalking" />
         <module name="cloud5-1-eureka-server" />
         <module name="cloud2-config-server" />
@@ -104,28 +119,35 @@
         <module name="eureka-server" />
         <module name="ch3-4-eureka-server" />
         <module name="cloud6-3-hystrix-dashboard" />
+        <module name="crm-sales-infrastructure" />
         <module name="cloud17-4-gateway-https" />
         <module name="cloud11-8-config-client-high-availability" />
+        <module name="cloud23-consumer" />
+        <module name="cloud22-3-example-service-1" />
         <module name="cloud11-2-config-client-multiple-repositories" />
         <module name="cloud15-1-sleuth-consumer" />
         <module name="cloud6-1-eureka-server" />
         <module name="cloud17-1-gateway-1" />
         <module name="cloud6-1-client-service" />
         <module name="cloud6-4-collapsing" />
-        <module name="cloud17-5-service" />
+        <module name="cloud4-venus-provider-client" />
+        <module name="cloud13-5-consul-provider2" />
         <module name="cloud13-5-consul-provider1" />
-        <module name="cloud11-10-gateway-zuul-apollo" />
+        <module name="cloud22-2-gateway" />
         <module name="cloud4-2-provider" />
         <module name="cloud2-eureka-client" />
+        <module name="crm-sales-domain" />
         <module name="cloud15-3-service-b" />
         <module name="cloud15-3-service-a" />
         <module name="cloud7-3-eureka-server" />
         <module name="cloud15-2-sleuth-consumer" />
         <module name="cloud7-1-eureka-server" />
+        <module name="cloud13-5-consul-overrider-consumer-new" />
         <module name="cloud9-1-hystrix-dashboard" />
+        <module name="cloud4-5-provider" />
         <module name="cloud16-1-gateway-2" />
         <module name="cloud16-1-gateway-1" />
-        <module name="cloud8-2-client-a" />
+        <module name="cloud20-grpc-server" />
         <module name="cloud7-2-client-a" />
         <module name="cloud14-1-eureka-service" />
         <module name="cloud10-3-config-client-bus-refresh-server" />
@@ -138,29 +160,36 @@
         <module name="cloud8-1-eureka-server" />
         <module name="cloud4-venus-consumer" />
         <module name="ch3-3-eureka-server" />
+        <module name="cloud3-3-eureka-server" />
+        <module name="cloud3-3-eureka-client" />
         <module name="cloud16-3-1-gateway" />
-        <module name="cloud13-5-consul-overrider-consumer-new" />
+        <module name="cloud17-5-service" />
+        <module name="cloud11-1-config-server-placeholder" />
+        <module name="alpha-server" />
         <module name="cloud14-1-core-service" />
         <module name="cloud3-zuul-gateway2" />
-        <module name="cloud4-venus-provider" />
+        <module name="cloud23-api" />
+        <module name="cloud8-3-client-a" />
+        <module name="tcc-coordinator-atomikos" />
         <module name="cloud13-3-consul-config-customize" />
         <module name="cloud8-7-eureka-server" />
-        <module name="cloud8-6-zuul-server" />
+        <module name="cloud10-3-config-client-bus-refresh" />
         <module name="cloud9-1-eureka-server" />
         <module name="cloud11-1-config-client-placeholder" />
         <module name="cloud10-3-config-server-bus" />
         <module name="cloud15-3-eureka-skywalking" />
         <module name="cloud13-4-consul-overrider-consumer" />
         <module name="cloud8-6-eureka-server" />
-        <module name="cloud17-3-provider" />
+        <module name="tcc-coordinator-example" />
         <module name="cloud11-3-config-server-db" />
         <module name="cloud13-2-consul-consumer-ribbon" />
         <module name="cloud3-4-eureka-server" />
         <module name="cloud21-1-zuul-server" />
         <module name="cloud13-4-consul-override-provider-tag1" />
         <module name="cloud8-5-client-a" />
-        <module name="cloud9-1-user-service" />
+        <module name="cloud8-2-auth-server" />
         <module name="cloud10-2-config-client-refresh" />
+        <module name="cloud11-10-apollo-build-script" />
         <module name="cloud16-2-8-gateway" />
         <module name="grpc-simple-client" />
         <module name="cloud4-2-consumer" />
@@ -172,55 +201,61 @@
         <module name="eureka-client" />
         <module name="ch3-4-eureka-client" />
         <module name="cloud11-4-config-client-mongodb" />
-        <module name="cloud4-4-eureka-server" />
-        <module name="cloud3-3-eureka-client" />
-        <module name="cloud4-5-provider" />
+        <module name="cloud13-4-consul-overrider-provider-tag1" />
+        <module name="cloud11-9-eureka-server" />
+        <module name="omega-order-service" />
         <module name="cloud12-1-consul-config" />
         <module name="cloud12-1-consul-provider" />
         <module name="ch11-5-config-client-refresh-autoconfig" />
-        <module name="cloud11-9-config-server" />
+        <module name="order-service" />
         <module name="cloud16-2-service" />
         <module name="ch3-2-eureka-server" />
         <module name="cloud17-1-consumer" />
         <module name="cloud16-3-6-gateway" />
         <module name="cloud16-3-4-gateway" />
         <module name="cloud13-2-consul-provider-tag-1" />
-        <module name="cloud6-4-hystrix-cache" />
+        <module name="cloud10-1-config-client" />
         <module name="cloud16-3-2-gateway" />
         <module name="cloud11-7-config-server-auth-jwt" />
-        <module name="cloud17-2-gateway" />
+        <module name="cloud13-2-consul-consumer-discoveryclient" />
         <module name="cloud11-8-config-client-high-availability-autoconfig" />
-        <module name="cloud11-10-apollo-build-script" />
+        <module name="cloud22-1-3-jdk8-docker" />
+        <module name="omega-inventory-service" />
         <module name="cloud15-1-sleuth-provider" />
         <module name="cloud11-5-config-client-refresh-autoconfig" />
+        <module name="cloud23-eureka-server" />
+        <module name="cloud23-dubbo-provider-api" />
         <module name="cloud21-1-discovery-console" />
         <module name="cloud11-8-config-server" />
+        <module name="cloud22-1-4-jdk10-docker" />
         <module name="cloud10-1-zuul-server" />
-        <module name="cloud8-5-eureka-server" />
+        <module name="cloud23-dubbo-consumer1" />
+        <module name="cloud11-10-gateway-zuul-apollo" />
         <module name="cloud17-4-eureka" />
         <module name="cloud6-4-hystrix-thread-context" />
         <module name="cloud20-grpc-client" />
-        <module name="cloud3-3-eureka-server" />
-        <module name="cloud10-3-config-client-bus-refresh" />
-        <module name="cloud17-6-provider" />
+        <module name="cloud4-venus-provider" />
+        <module name="cloud13-4-consul-overrider-provider-tag2" />
+        <module name="sage-servicecomb-example" />
         <module name="cloud9-1-config-server" />
         <module name="cloud9-1-data-service" />
         <module name="cloud4-5-consumer" />
         <module name="ch3-5-eureka-server" />
-        <module name="cloud11-1-config-server-placeholder" />
+        <module name="crm-sales-app" />
         <module name="cloud6-4-eureka-server" />
         <module name="cloud6-2-consumer-service" />
         <module name="cloud13-5-consul-overrider-consumer" />
         <module name="cloud8-3-zuul-server" />
-        <module name="cloud17-1-eureka" />
-        <module name="cloud13-4-consul-overrider-provider-tag1" />
-        <module name="cloud13-4-consul-overrider-provider-tag2" />
+        <module name="cloud23-provider" />
+        <module name="cloud10-2-config-server" />
+        <module name="cloud9-1-user-service" />
         <module name="cloud5-1-client-a" />
         <module name="cloud7-3-client-b" />
         <module name="ch3-2-zuul-gateway" />
-        <module name="cloud8-3-client-a" />
+        <module name="cloud8-2-client-a" />
         <module name="cloud17-6-3-gateway" />
-        <module name="cloud14-1-gateway" />
+        <module name="cloud8-5-eureka-server" />
+        <module name="cloud6-2-hystrix-consumer" />
         <module name="cloud16-3-7-gateway" />
       </profile>
     </annotationProcessing>
@@ -244,6 +279,10 @@
       <module name="cloud17-1-provider1" target="1.8" />
       <module name="cloud19-1" target="1.8" />
       <module name="cloud19-1-eureka-server" target="1.8" />
+      <module name="cloud23-api" target="1.8" />
+      <module name="cloud23-dubbo-consumer" target="1.8" />
+      <module name="cloud23-dubbo-provider-api" target="1.8" />
+      <module name="cloud25" target="1.8" />
       <module name="cloud3-4-eureka-server" target="1.8" />
       <module name="cloud3-eureka-client" target="1.8" />
       <module name="cloud3-eureka-server" target="1.8" />
@@ -263,6 +302,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="alpha-server" options="-parameters" />
       <module name="ch11-5-config-client-refresh-autoconfig" options="-parameters" />
       <module name="ch3-2" options="-parameters" />
       <module name="ch3-2-eureka-client" options="-parameters" />
@@ -443,6 +483,35 @@
       <module name="cloud21-1-eureka-server" options="-parameters" />
       <module name="cloud21-1-original-service" options="-parameters" />
       <module name="cloud21-1-zuul-server" options="-parameters" />
+      <module name="cloud22-1" options="-parameters" />
+      <module name="cloud22-1-3-jdk8-docker" options="-parameters" />
+      <module name="cloud22-1-4-jdk10-docker" options="-parameters" />
+      <module name="cloud22-2" options="-parameters" />
+      <module name="cloud22-2-biz-service" options="-parameters" />
+      <module name="cloud22-2-config-server" options="-parameters" />
+      <module name="cloud22-2-eureka-server" options="-parameters" />
+      <module name="cloud22-2-gateway" options="-parameters" />
+      <module name="cloud22-2-turbine" options="-parameters" />
+      <module name="cloud22-3" options="-parameters" />
+      <module name="cloud22-3-example-service-1" options="-parameters" />
+      <module name="cloud22-3-example-service-2" options="-parameters" />
+      <module name="cloud22-spring-admin" options="-parameters" />
+      <module name="cloud23-1" options="-parameters" />
+      <module name="cloud23-2-dubbo-provider-api" options="-parameters" />
+      <module name="cloud23-api" options="-parameters" />
+      <module name="cloud23-consumer" options="-parameters" />
+      <module name="cloud23-dubbo-consumer" options="-parameters" />
+      <module name="cloud23-dubbo-consumer1" options="-parameters" />
+      <module name="cloud23-dubbo-provider" options="-parameters" />
+      <module name="cloud23-dubbo-provider-api" options="-parameters" />
+      <module name="cloud23-eureka-server" options="-parameters" />
+      <module name="cloud23-provider" options="-parameters" />
+      <module name="cloud24" options="-parameters" />
+      <module name="cloud24-jta-atomiks" options="-parameters" />
+      <module name="cloud24-sage-servicecomb" options="-parameters" />
+      <module name="cloud24-tcc-rest" options="-parameters" />
+      <module name="cloud25" options="" />
+      <module name="cloud25-1" options="" />
       <module name="cloud3-3" options="" />
       <module name="cloud3-3-eureka-client" options="-parameters" />
       <module name="cloud3-3-eureka-server" options="-parameters" />
@@ -550,9 +619,24 @@
       <module name="cloud9-1-hystrix-dashboard" options="-parameters" />
       <module name="cloud9-1-user-service" options="-parameters" />
       <module name="cloud9-1-zuul-server" options="-parameters" />
+      <module name="crm-sales-app" options="-parameters" />
+      <module name="crm-sales-client" options="-parameters" />
+      <module name="crm-sales-consumer" options="-parameters" />
+      <module name="crm-sales-domain" options="-parameters" />
+      <module name="crm-sales-infrastructure" options="-parameters" />
+      <module name="crm-sales-start" options="-parameters" />
+      <module name="dubbo-provider-api" options="-parameters" />
       <module name="eureka-client" options="-parameters" />
       <module name="eureka-server" options="-parameters" />
+      <module name="inventory-service" options="-parameters" />
+      <module name="omega-inventory-service" options="-parameters" />
+      <module name="omega-order-service" options="-parameters" />
+      <module name="order-service" options="-parameters" />
+      <module name="sage-servicecomb-example" options="-parameters" />
       <module name="spring-cloud-code" options="" />
+      <module name="tcc-coordinator-atomikos" options="-parameters" />
+      <module name="tcc-coordinator-example" options="-parameters" />
+      <module name="tcc-rest-participant-api" options="-parameters" />
       <module name="untitled" options="-parameters" />
     </option>
   </component>

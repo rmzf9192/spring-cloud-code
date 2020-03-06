@@ -80,6 +80,13 @@
         <module>cloud18-2</module>
         <module>cloud20</module>
         <module>cloud21-1</module>
+        <module>cloud22-1</module>
+        <module>cloud22-2</module>
+        <module>cloud22-3</module>
+        <module>cloud23-1</module>
+        <module>cloud23-2</module>
+        <module>cloud24</module>
+        <module>cloud25-1</module>
     </modules>
     <packaging>pom</packaging>
 
