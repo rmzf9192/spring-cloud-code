@@ -79,6 +79,7 @@
         <module>cloud18-1</module>
         <module>cloud18-2</module>
         <module>cloud20</module>
+        <module>cloud21-1</module>
     </modules>
     <packaging>pom</packaging>
 
